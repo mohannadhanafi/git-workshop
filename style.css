@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+.header--section {
+    color: #FFF;
+    background: #000;
+}
+
 .main--section h3 {
     color: blue;
 }
