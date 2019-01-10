@@ -8,6 +8,10 @@
     background: #000;
 }
 
+.footer-section {
+    color: yellow;
+    background: blue
+}
 .main--section h3 {
     color: blue;
 }
